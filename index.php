@@ -312,7 +312,7 @@ include 'koneksi.php';
     </section>
     <section class="p-12">
         <footer class="text-black text-center p-3" style="height: 50%; width: 100%; background-color:#DDDDDD; ">
-            <p>Created by <a href="https://www.instagram.com/stywrdhn/" class="text-black ">Satya Wardhana</a>
+            <p>Created by <a href="https://satyawardhana.github.io/" class="text-black ">Satya Wardhana</a>
             </p>
         </footer>
     </section>

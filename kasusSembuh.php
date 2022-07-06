@@ -348,7 +348,7 @@ $total32 = mysqli_fetch_array($jumlah32);
     </section>
     <section class="p-12">
         <footer class="text-black text-center p-3" style="height: 50px;width: 100%; background-color: #00FF7F;">
-            <p>Created by <a href="https://www.instagram.com/stywrdhn/" class="text-black ">Satya Wardhana</a>
+            <p>Created by <a href="https://satyawardhana.github.io/" class="text-black ">Satya Wardhana</a>
             </p>
         </footer>
     </section>
